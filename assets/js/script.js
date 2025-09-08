@@ -1,31 +1,31 @@
 function runGame() {
-    
+
 }
 
-function checkAnswer(params) {
-    
+function checkAnswer() {
+
 }
 
-function calculateCorrectAnswer(params) {
-    
+function calculateCorrectAnswer() {
+
 }
 
-function incrementScore(params) {
-    
+function incrementScore() {
+
 }
 
-function incrementWrongAnswer(params) {
-    
+function incrementWrongAnswer() {
+
 }
 
-function displayAdditionQuestion(params) {
-    
+function displayAdditionQuestion() {
+
 }
 
-function displaySubtractionQuestion(params) {
-    
+function displaySubtractQuestion() {
+
 }
 
-function displayMultiplyQuestion(params) {
+function displayMultiplyQuestion() {
     
 }
